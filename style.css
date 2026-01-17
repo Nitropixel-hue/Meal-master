@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  padding: 12px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#mealResult {
+  margin-top: 20px;
+  font-weight: bold;
+}
